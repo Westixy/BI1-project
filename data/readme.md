@@ -18,7 +18,7 @@
 
 * money
   * description : GDP by Type of Expenditure at current prices - National currency
-  * filter : y:2000
+  * filter : y:2015
   * columns : Country or Area / Year(s) / Item / Value
   * date : 17.01.2018
   * url : http://data.un.org/Data.aspx?q=gdp&d=SNAAMA&f=grID%3a101%3bcurrID%3aNCU%3bpcFlag%3a0
