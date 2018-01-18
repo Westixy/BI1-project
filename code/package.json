@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "Script used to clean the data",
   "scripts": {
-    "birth": "node ./unused_scripts/cleanit.js -r ../data/raw/birth_ratio.csv -o ../data/processed/birth_ratio.json",
-    "life": "node ./unused_scripts/cleanit.js -r ../data/raw/lifetime.csv -o ../data/processed/lifetime.json",
-    "money": "node ./unused_scripts/getland_by_gdp.js -r ../data/raw/money.csv -o ../data/processed/lands.json"
+    "birth": "node ./scripts/cleanit.js -r ../data/raw/birth_ratio.csv -o ../data/processed/birth_ratio.csv",
+    "life": "node ./scripts/cleanit.js -r ../data/raw/lifetime.csv -o ../data/processed/lifetime.csv",
+    "money": "node ./scripts/getland_by_gdp.js -r ../data/raw/money.csv -o ../data/processed/lands.csv"
   },
   "author": "Westixy",
   "license": "MIT",

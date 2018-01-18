@@ -15,8 +15,21 @@ const raw = fs
   .map(a => a.split(';').map(a => a.replace('\r', '').replace(/\"/g, '')))
 const raw_keys = raw.splice(0, 1)
 
+let list = raw
+  // ne prend que les lignes du GDP
+  .filter(line => line[2] == 'Gross Domestic Product (GDP)')
+  // retire la colonne item et année
+  .map(line => [line[0], line[3]])
+
+//insert les noms des colonnes
+list = [['country', 'GDP'], ...list]
+
+//transforme en texte 
+let text = list.map(line =>
+  line
+    .map(cell => `"${cell.replace(/\\/g, '\\\\').replace(/\"/g, '\\"')}"`)
+    .join(';')
+).join('\r\n')
+
 // ecrit le fichier
-fs.writeFileSync(
-  arg.output,
-  JSON.stringify(raw.map(line => ({ country: line[0], year: line[1], value:line[2] })))
-)
+fs.writeFileSync(arg.output, text)
