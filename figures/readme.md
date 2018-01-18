@@ -1,14 +1,27 @@
 # figures
 
-## Exploratory Figures
+## Figures
 
-* [Exploratory figures](exploratory/readme.md)
-* Figures generated during the course of the analysis, not necessarily part of the final report/presentation
-* Does not have to be pretty
-* Could include the environement file from the tool you used (like for Power BI)
+* `Avg time and ratio.PNG`
+  * represents the correlation between lifetime and birth ratio
+* `bi proj.pbix` 
+  * file of powerbi
+* `birthandlifetimeinamap.PNG` 
+  * represents the inverted proportional of the correlation in the world in a tidy format
+* `dots-tendance.PNG` 
+  * represents the general trend of the correlation in a tidy format
+* `dots.PNG` 
+  * represents the general trend of the correlation without a trend line
+* `down.PNG` 
+  * represents the correlation in a tidy format
+* `maps.PNG` 
+  * represents the inverted proportional of the correlation in the world
+* `maps2.PNG` 
+  * represents the proportional of the correlation in the world in a tidy format
 
 ## Final Figures
 
-* [Final figures](finale/readme.md)
-* Small subset of the original Figures
-* Must be pretty and clear
+* [Worldmap inverted](./final/birthandlifetimeinamap.PNG)
+* [Worldmap](./final/maps.PNG)
+* [Correlation](./final/down.PNG)
+* [Trend](./final/dots-tendance.PNG)

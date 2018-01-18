@@ -1,4 +1,4 @@
-# data
+# Data
 
 ## Raw data
 
@@ -25,8 +25,19 @@
 
 ## Processed data
 
-* File should be named so it is easy to see which [script](../code/) has generated the data
-* Processed data should be [tidy](https://github.com/jtleek/datasharing)
+* birth_ratio.csv
+  * Is pretty the same that the raw one.
+  * changed the colums name to "contry", "year" and "value"
+
+* lifetime.csv
+  * Is pretty the same that the raw one.
+  * changed the colums name to "contry", "year" and "value"
+
+* lands.csv 
+  * Come from the "money" raw file
+  * removed columns years and items
+  * removed lines where item type was not the GDP
+  * changed the colums name to "contry" and "value" 
 
 ## Study design
 
@@ -34,9 +45,29 @@ Looking for something that can be used for the need of the project by crowling m
 
 ## Code book
 
-* Description of variables and their units
-* ...
+### birth_ratio.csv
+
+| name | description  |
+|---|---|
+| contry | Name of the contry |
+| year | Time period |
+| value | Ratio of the birth by woman |
+
+### liftime.csv
+
+| name | description  |
+|---|---|
+| contry | Name of the contry |
+| year | Time period |
+| value | Average time of life (gender combined) |
+
+### lands.csv
+
+| name | description  |
+|---|---|
+| contry | Name of the contry |
+| GDP | GDP per country in year 2015 |
 
 ## Instruction list
 
-* How to go from raw data to tidy data
+* Just run the commands that are described in the [code part](../code/readme.md)
