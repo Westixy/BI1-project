@@ -21,7 +21,7 @@ Avec un petit changement de couleur, on peut constater quelque chose d'intéress
 Apparements, les pays moins développés ont une durée de vie plus basse et un taux de natalité bien plus haut. L'Amérique du nord, l'Australie et l'Europe ont une vie plutot longue et a contrario, très peu d'enfants pas femme. Tandis que l'Afrique et le sud-ouest de l'Asie, qui sont en somme toujours en phase de développement, font beaucoup d'enfants mais ont une spérance de vie bien plus courte. En spéculant un peu, on peut immaginer que ce sont des pays où l'hygiene de vie est moins grande et l'accès aux médicament et hôpitaux est plus difficile.
 
 On peut aussi trouver une certaine tendance entre ces deux paramètres a traves le monde.
-![graph3](../figures/final/dots-tendance.PNG)
+![graph3](../figures/final/dots-tendance.PNG)\
 L'axe Y représente la moyenne de la durées de vie dans un pays entre les années 1950 et 2020.
 L'axe X représente la moyenne du taux de naissance dans un pays entre les années 1950 et 2020.
 
