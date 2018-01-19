@@ -23,5 +23,4 @@
 
 * [Worldmap inverted](./final/birthandlifetimeinamap.PNG)
 * [Worldmap](./final/maps.PNG)
-* [Correlation](./final/down.PNG)
 * [Trend](./final/dots-tendance.PNG)
