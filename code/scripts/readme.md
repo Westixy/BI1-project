@@ -1,7 +1,7 @@
 # Scripts
 
 * cleanit:
-  * used to clean and transform data from csv to json
+  * used to clean and transform data from csv
   * need 3 columns in the raw
 
 * getland_by_gdp
