@@ -22,7 +22,7 @@ Apparements, les pays moins développés ont une durée de vie plus basse et un 
 
 On peut aussi trouver une certaine tendance entre ces deux paramètres a traves le monde.
 ![graph3](../figures/final/dots-tendance.PNG)\
-L'axe Y représente la moyenne de la durées de vie dans un pays entre les années 1950 et 2020.
+L'axe Y représente la moyenne de la durées de vie dans un pays entre les années 1950 et 2020.\
 L'axe X représente la moyenne du taux de naissance dans un pays entre les années 1950 et 2020.
 
 
