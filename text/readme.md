@@ -1,4 +1,4 @@
-# Rapport final : la durée de vie influence-t-elle le taux de natalité ?
+# Rapport final <br /><small>la durée de vie influence-t-elle le taux de natalité ?</small>
 
 ## Introduction
 
