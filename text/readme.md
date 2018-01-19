@@ -4,7 +4,7 @@
 
 J'ai décidé de faire une analyse sur le taux de naissance et la durée de vie dans le monde pour voir si une relation entre ces deux phénomènes existe.
 
-Ce sujet me semble intéressant car l'on peut constater selon la region du globe la différence de durée de vie et de taux de naissance qui semble être lié.
+Ce sujet me semble intéressant car l'on peut constater selon la région du globe la différence de durée de vie et de taux de naissance qui semblent être lié.
 
 
 ## Données
@@ -22,7 +22,8 @@ Apparements, les pays moins développés ont une durée de vie plus basse et un 
 
 On peut aussi trouver une certaine tendance entre ces deux paramètres a traves le monde.
 ![graph3](../figures/final/dots-tendance.PNG)
-
+L'axe Y représente la moyenne de la durées de vie dans un pays entre les années 1950 et 2020.
+L'axe X représente la moyenne du taux de naissance dans un pays entre les années 1950 et 2020.
 
 
 ## Conclusion
