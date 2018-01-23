@@ -8,7 +8,7 @@ Question : Est-ce que la durée de vie influence le taux de naissance?
 
 [Rapport](./text/readme.md)
 
-[Présentation](https://docs.google.com/presentation/d/e/2PACX-1vQHuBxCftRmpZI4isSeUPYGjDoZCpGaWazDAqD0vKum5spoC_vBE77NRLasJpXfo_805JOEIZJQcHcH/pub?start=false&loop=false&delayms=3000)
+[Présentation](https://docs.google.com/presentation/d/e/2PACX-1vQHuBxCftRmpZI4isSeUPYGjDoZCpGaWazDAqD0vKum5spoC_vBE77NRLasJpXfo_805JOEIZJQcHcH/pub?start=false&loop=false&delayms=30000)
 
 ## Sources 
 
